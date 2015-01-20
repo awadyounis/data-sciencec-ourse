@@ -1,2 +1,2 @@
-# data-sciencec-ourse
+# data-science-course
 Data Science
